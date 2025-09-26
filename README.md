@@ -4,6 +4,9 @@ Version: ?
 # Описание
 Coming Soon
 ****
+# Установка
+Coming Soon URL
+****
 ![Static Badge](https://img.shields.io/badge/Crufix-Drop_it_or_Die-Oxygen)
 ![GitHub](https://img.shields.io/github/license/GoodVaib/Drop-it-or-Die)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GoodVaib/Drop-it-or-Die)
