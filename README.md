@@ -1,8 +1,8 @@
-# Drop it or die
-Version: 0.1
+# Drop it or die: Reloaded
+Version: ?
 ****
 # Описание
-Игра против бота, у кого выпадет большее число тот получает "+1" к счётчику очков. Каждые 2 победы игрок стреляет в бота, а каждые 2 проигрыша бот стреляет в игрока, в пистолетах по 6 патрон и только 1 боевой.
+Coming Soon
 ****
 ![Static Badge](https://img.shields.io/badge/Crufix-Drop_it_or_Die-Oxygen)
 ![GitHub](https://img.shields.io/github/license/GoodVaib/Drop-it-or-Die)
