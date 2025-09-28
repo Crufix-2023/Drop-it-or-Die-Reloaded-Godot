@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Drop it or Die: Reloaded"
+run/main_scene="uid://b0cs52ae6g1bd"
 config/features=PackedStringArray("4.5", "Mobile")
 
 [display]
@@ -20,6 +21,13 @@ window/size/viewport_height=512
 window/stretch/mode="viewport"
 window/stretch/aspect="keep_width"
 
+[gui]
+
+theme/custom="uid://b6attsvdpefsy"
+theme/custom_font="uid://b1nvye7o6obqr"
+
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
+anti_aliasing/quality/msaa_2d=1
